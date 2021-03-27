@@ -1,0 +1,2 @@
+<!--pages/content/progress/progress.wxml-->
+<progress percent="20" show-info stroke-width="3"/>

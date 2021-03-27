@@ -1,0 +1,2 @@
+<!--pages/content/icon/icon.wxml-->
+<icon class="icon-box-img" type="success" size="93"></icon>

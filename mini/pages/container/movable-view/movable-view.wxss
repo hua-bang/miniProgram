@@ -1,0 +1,11 @@
+/* pages/container/movable-view/movable-view.wxss */
+.move-area{
+  height: 200px;
+  background:#ccc;
+}
+.view{
+  height: 30px;
+  width: 30px;
+  background: green;
+  color: white;
+}

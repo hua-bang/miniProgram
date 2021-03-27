@@ -1,0 +1,28 @@
+{
+  "pages":[
+    "pages/map/polyline/polyline",
+    "pages/map/marker/marker",
+    "pages/media/video/video",
+    "pages/media/image/image",
+    "pages/media/audio/audio",
+    "pages/navigator/navigator/navigator",
+    "pages/content/form/form",
+    "pages/content/progress/progress",
+    "pages/content/text/text",
+    "pages/content/icon/icon",
+    "pages/container/cover-view/cover-view",
+    "pages/container/movable-view/movable-view",
+    "pages/demo/demo",
+    "pages/swiper/swiper",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

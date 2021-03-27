@@ -1,0 +1,15 @@
+<!--pages/demo/demo.wxml-->
+<view id="view">
+  <view>view</view>
+</view>
+
+<view id="scoll-view">
+  <scroll-view scroll-y="true" style="height: 300rpx;" bindscrolltoupper="upper" bindscrolltolower="lower">
+          <view class="scroll-view-item scroll-demo-1" >
+            scroll-view-1
+          </view>
+          <view class="scroll-view-item scroll-demo-2">
+            scroll-view-2
+          </view>
+        </scroll-view>
+</view>

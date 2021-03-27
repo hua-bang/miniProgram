@@ -1,0 +1,5 @@
+<view class="move-area">
+  <movable-area style="width:100%;height:100%">
+        <movable-view x="{{x}}" y="{{y}}" direction="all" class="view">text</movable-view>
+      </movable-area>
+</view>

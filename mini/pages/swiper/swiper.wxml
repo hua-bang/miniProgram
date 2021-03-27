@@ -1,0 +1,12 @@
+<swiper
+        autoplay="true">
+        <block wx:for="{{img}}" wx:key="*this">
+          <swiper-item>
+            <view class="swiper-item {{item}}">
+              <image src="{{item}}"></image>
+            </view>
+          </swiper-item>
+        </block>
+      </swiper>
+
+      swiper

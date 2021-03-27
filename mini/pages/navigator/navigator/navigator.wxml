@@ -1,0 +1,4 @@
+<!--pages/navigator/navigator/navigator.wxml-->
+<view class="btn-area">
+  <navigator url="/pages/index/index" hover-class="other-navigator-hover">首页</navigator>
+</view>
